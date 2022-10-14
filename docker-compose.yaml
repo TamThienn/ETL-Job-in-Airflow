@@ -61,7 +61,7 @@ x-airflow-common:
     AIRFLOW__SMTP__SMTP_HOST: smtp.gmail.com
     AIRFLOW__SMTP__SMTP_PORT: 587
     AIRFLOW__SMTP__SMTP_USER:  thien.huynhvantam@hcmut.edu.vn
-    AIRFLOW__SMTP__SMTP_PASSWORD: thien123456789
+    AIRFLOW__SMTP__SMTP_PASSWORD: youremailpassword
     AIRFLOW__SMTP__SMTP_MAIL_FROM: thien.huynhvantam@hcmut.edu.vn
     _PIP_ADDITIONAL_REQUIREMENTS: ${_PIP_ADDITIONAL_REQUIREMENTS:-}
     
